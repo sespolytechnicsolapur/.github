@@ -3,6 +3,8 @@
 ## Departments
 - Computer Technology
 - AI & ML
+- Electrical
+- Electronics and telecommunication
 - Mechanical Engineering
 - Civil Engineering
 
